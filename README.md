@@ -13,7 +13,7 @@ Please install docker first.
 
 ## Available Accounts
 
-Some of them have special usage, see [Special Accounts](#Special Accounts) section below.
+Some of them have special usage, see [Special Accounts](#special-accounts) section below.
 
 ### Addresses
 
