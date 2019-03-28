@@ -53,9 +53,13 @@ Base HD Path: `m/44'/60'/0'/0/{account_index}`
 
 0x04f67E8b7C39A25e100847Cb167460D715215FEb
 
-### HybridExchange:
+### HybridExchange v1.0:
 
 0x5C0286beF1434b07202a5Ae3De38e66130d5280d
+
+### HybridExchannge v1.1:
+
+0x179fd00C328d4ecdb5043c8686d377A24EDe9D11
 
 ### Hydro Token:
 
