@@ -1,5 +1,8 @@
 # Ethereum test node
 
+[![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/hydroprotocolio/ethereum-test-node.svg)](https://hub.docker.com/r/hydroprotocolio/ethereum-test-node)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hydroprotocolio/ethereum-test-node.svg)](https://hub.docker.com/r/hydroprotocolio/ethereum-test-node)
+
 - Powered by ganachi-cli
 - HydroHybridExchange 1.0 internally integrated
 
