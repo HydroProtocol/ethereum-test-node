@@ -1,5 +1,6 @@
 # Ethereum test node
-
+[![microbadger](https://images.microbadger.com/badges/image/hydroprotocolio/ethereum-test-node.svg)](https://microbadger.com/images/hydroprotocolio/ethereum-test-node)
+[![Docker Pulls](https://img.shields.io/docker/pulls/hydroprotocolio/ethereum-test-node.svg)](https://hub.docker.com/r/hydroprotocolio/ethereum-test-node)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/hydroprotocolio/ethereum-test-node.svg)](https://hub.docker.com/r/hydroprotocolio/ethereum-test-node)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hydroprotocolio/ethereum-test-node.svg)](https://hub.docker.com/r/hydroprotocolio/ethereum-test-node)
 
