@@ -12,7 +12,7 @@
 
 Please install docker first.
 
-	
+
 	docker run -it --rm -p 8545:8545 $(docker build -q .)
 
 ## Available Accounts
@@ -57,6 +57,10 @@ Base HD Path: `m/44'/60'/0'/0/{account_index}`
 
 0x04f67E8b7C39A25e100847Cb167460D715215FEb
 
+### DepositProxy:
+
+0x1AA25040Dbf401B3FDF67DceC5Bb2Fe2E531A55b
+
 ### HybridExchange v1.0:
 
 0x5C0286beF1434b07202a5Ae3De38e66130d5280d
@@ -64,6 +68,10 @@ Base HD Path: `m/44'/60'/0'/0/{account_index}`
 ### HybridExchannge v1.1:
 
 0x179fd00C328d4ecdb5043c8686d377A24EDe9D11
+
+### HybridExchannge v1.2:
+
+0x36f179FF6E8a4816509ed867bd273fDdeB409331
 
 ### Hydro Token:
 
