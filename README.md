@@ -114,10 +114,12 @@ Address: `0x126aa4ef50a6e546aa5ecd1eb83c060fb780891a`
 Private Key: `0xa6553a3cbade744d6c6f63e557345402abd93e25cd1f1dba8bb0d374de2fcf4f`
 
 - Maker Address
-- Have 100000 HOT Token
-- Have 100000 USD Token
+- Have 90000 HOT Token
+- Have 90000 USD Token
 - Have 1000 WETH
 - Have approved all coins
+- Have 10000 HOT Token deposited in Hydro DepositProxy (for deposit mode)
+- Have 10000 USD Token deposited in Hydro DepositProxy (for deposit mode)
 
 ### Test Addresses
 
